@@ -1,6 +1,8 @@
 Rencana konten kunto
 
 -Javascript
+ *ES6
+ *Framework Javascript
 -PHP Framework
 -Interview
 -Vlogs
