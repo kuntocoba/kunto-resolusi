@@ -3,7 +3,11 @@ Rencana konten kunto
 -Javascript
  *ES6
  *Framework Javascript
+  ^Vue
+  ^React
 -Struktur Data Dasar
 -PHP Framework
+ ^Laravel
 -Interview
 -Vlogs
+-Materi python
